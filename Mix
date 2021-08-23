@@ -1,0 +1,79 @@
+#EXTINF:-1 tvg-id="E10.BD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Logo_of_Enterr10_Bangla.jpg" group-title=""Hindustan(বাংলা)",Enter 10 আনন্দ
+
+http://streamitv.multitvsolution.in/idvo/enter10bangla_540p/index.m3u8
+
+#EXTINF:-1 tvg-id="ZZB.IN" tvg-logo="https://static.epg.best/in/ZeeBangla.in.png" group-title="Hindustan(বাংলা)",Zee বাংলা
+
+http://185.246.210.54:2200/R-EX/BENGALI_ZEE_BANGLA_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="ZBC.IN" tvg-logo="https://static.epg.best/in/ZeeBanglaCinema.in.png" group-title="Hindustan(বাংলা)",Zee বাংলা সিনেমা
+
+http://z5amshls.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="STJ.IN" tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="Hindustan(বাংলা)",Star Jalsha
+
+http://163.172.29.246:8081/globalbd/starjalsha/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SJM.IN" tvg-logo="https://static.epg.best/in/JalshaMovies.in.png" group-title="Hindustan(বাংলা)",Star Jalsha Movies
+
+http://185.246.210.54:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-id="BDW.DB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/Bangladesh_Television_logo.png" group-title="Hindustan(বাংলা)",BTV World
+
+http://163.172.29.246:8081/globalbd/btv/chunks.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="BOB.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-165/list/170x120/09165booglebollywood.png" group-title="Hindustan(ਪੰਜਾਬੀ)"",Boogle Bollywood 
+
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
+#EXTINF:-1 tvg-id="AKK.IN" tvg-logo="http://akaalchannel.tv/assets/images/logo.png" group-title="Hindustan(ਪੰਜਾਬੀ)",Channel Akkal
+
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+
+#EXTINF:-1 tvg-id="DDP.IN" tvg-logo="https://static.epg.best/in/DDPunjabi.in.png" group-title="Hindustan(ਪੰਜਾਬੀ)",DD Punjabi
+
+https://hls.media.nic.in/hls/live/ddpunjabi/ddpunjabi.m3u8
+
+#EXTINF:-1 tvg-id="MH1.IN" tvg-logo="http://music.mhone.in/wp-content/uploads/2018/05/600x200-Black.png" group-title="Hindustan(ਪੰਜਾਬੀ)",MH One
+
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MHN.IN" tvg-logo="http://www.mhone.in/wp-content/uploads/2018/01/News-600x200.png" group-title="Hindustan(ਪੰਜਾਬੀ)",MH1 Prime
+
+http://rtmp.smartstream.video:1935/mhonenews/mhonenews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="PIT.IN" tvg-logo="https://www.pitaara.tv/wp-content/uploads/2020/09/pitaaralogo.png" group-title="Hindustan(ਪੰਜਾਬੀ)",Pitaara
+
+https://5b48d7e1b4bce.streamlock.net/pitara/pitaratv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ZZP.IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeepunjabharyanahima/list/170x120/09zeepunjabharyanahimazeep.png" group-title="Hindustan(ਪੰਜਾਬੀ)", Zee Punjabi
+
+http://z5amshls.akamaized.net/punjabi/tracks-v1a1/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ACV.IN" tvg-logo="https://www.asianet.in/static/images/Asianet-logo.png" group-title=Hindustan(മലയാളം)",Asianet
+
+https://acv.asianetmobiletvplus.com/webstreams/8f8e72769cb3e3a6e27c220e1e3887b8.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ASN.IN" tvg-logo="https://www.asianet.in/static/images/asianet-news.png" group-title="Hindustan(മലയാളം)",Asianet News
+
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/asianet-origin/live1/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ASP.IN" tvg-logo="https://www.asianet.in/static/images/acv-plus-logo.png" group-title="Hindustan(മലയാളം)",Asianet Plus
+
+https://acv.asianetmobiletvplus.com/webstreams/7eb4dc1f3240c8eb776d41b95bd1d197.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DDM.IN" tvg-logo="https://doordarshan.gov.in/sites/default/files/dd-malayalam.png" group-title="Hindustan(മലയാളം)",DD Malayalam
+
+http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
+
+#EXTINF:-1 tvg-id="FLO.IN" tvg-logo="http://www.asianetmobiletv.com/channels/Flowers.png" group-title="Hindustan(മലയാളം)",Flowers
+
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+
+#EXTINF:-1 tvg-id="JAI.IN" tvg-logo="https://jaihindtv.in/wp-content/themes/jaihindtheme/img/logo.
